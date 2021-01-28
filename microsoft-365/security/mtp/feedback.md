@@ -38,4 +38,6 @@ Your feedback helps us get better in protecting your environment from advanced a
 
 2. Rate your experience and provide details on what you liked or where improvement can be made. You can also choose to be contacted about the feedback. 
 
-3. Select **Submit**.
+3. (optional) check the screenshot and email checkboxes. it will help us understand the issue and contact you
+
+4. Select **Submit**.
